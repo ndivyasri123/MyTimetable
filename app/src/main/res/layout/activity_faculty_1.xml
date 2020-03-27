@@ -1,0 +1,38 @@
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#ED0EDAC7"
+
+    android:elevation="5dp">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <com.example.timetableapp.Utils.LetterImageView
+            android:id="@+id/ivLetterFaculty"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_margin="5dp">
+
+        </com.example.timetableapp.Utils.LetterImageView>
+
+        <TextView
+            android:id="@+id/tvFaculty"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@id/ivLetterFaculty"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginLeft="3dp"
+            android:layout_marginTop="3dp"
+            android:layout_toEndOf="@+id/ivLetterFaculty"
+            android:layout_toRightOf="@id/ivLetterFaculty"
+            android:text="Faculty"
+            android:textSize="28sp"
+            android:textStyle="bold">
+
+        </TextView>
+
+    </RelativeLayout>
+</androidx.cardview.widget.CardView>

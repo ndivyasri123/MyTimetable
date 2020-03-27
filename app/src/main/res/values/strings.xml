@@ -1,0 +1,224 @@
+<resources>
+    <string name="app_name">TimeTable App</string>
+    <string-array name="Main">
+        <item>TimeTable</item>
+        <item>Subjects</item>
+        <item>Faculty</item>
+
+
+    </string-array>
+    <string-array name="Description">
+        <item>
+         Get to Know the classes,only a click away and get rid of fussy image timetable
+        </item>
+        <item>
+            The brief syllabus of every subject well organised only for you.
+        </item>
+        <item>
+          Which Teacher is he/she? What is the mobile no. to contact? We have this as well.
+        </item>
+
+    </string-array>
+    <string-array name="Week">
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+
+    </string-array>
+
+    <string-array name="Friday">
+
+        <item>Solid State Devices and Circuits
+        </item>
+        <item>Electromagnetic Theory</item>
+        <item>Networks and Systems</item>
+        <item>Digital Electronics</item>
+        <item>Lunch Break</item>
+        <item>Principles of Management</item>
+    </string-array>
+
+    <string-array name="Tuesday">
+           <item>Solid State Devices and Circuits
+        </item>
+        <item>Lunch break</item>
+        <item>Digital Electronics</item>
+        <item>Networks and Systems</item>
+
+
+    </string-array>
+
+
+    <string-array name="Wednesday">
+           <item>Principles of Communication Engineering
+        </item>
+        <item>Lunch Break</item>
+        <item>Electromagnetic Theory</item>
+
+
+    </string-array>
+
+
+    <string-array name="Thursday">
+        <item>Principles of Management
+        </item>
+        <item>Lunch Break</item>
+        <item>Digital Electronics</item>
+        <item>Principles of Management</item>
+
+    </string-array>
+
+
+    <string-array name="Monday">
+        <item>Principles of Communication Engineering</item>
+        <item>Networks and Sysytems</item>
+        <item>Principles of Management</item>
+        <item>Solid State Devices and Circuits</item>
+        <item>Lunch Break</item>
+        <item>Electromagnetic Theory</item>
+    </string-array>
+
+    <string-array name="time1">
+        <item>9:00am-10:00am</item>
+        <item>10:00am-11:00am</item>
+        <item>11:00am-12:00pm</item>
+        <item>12:00pm-1:00pm</item>
+        <item>1:00pm-2:00pm</item>
+        <item>5:00pm-6:00pm</item>
+    </string-array>
+    <string-array name="time2">
+        <item>9:00am-10:00am</item>
+        <item>1:00pm-2:00pm</item>
+        <item>2:00pm-3:00pm</item>
+        <item>4:00pm-5:00pm</item>
+    </string-array>
+    <string-array name="time3">
+        <item>9:00am-10:00am</item>
+        <item>1:00pm-2:00pm</item>
+        <item>5:00am-6:00pm</item>
+    </string-array>
+    <string-array name="time4">
+        <item>9:00am-10:00am</item>
+        <item>1:00pm-2:00pm</item>
+        <item>4:00pm-5:00pm</item>
+        <item>5:00pm-6:00pm</item>
+
+    </string-array>
+    <string-array name="time5">
+        <item>9:00am-10:00am</item>
+        <item>10:00am-11:00am</item>
+        <item>11:00am-12:00pm</item>
+        <item>12:00pm-1:00pm</item>
+        <item>1:00pm-2:00pm</item>
+        <item>5:00pm-6:00pm</item>
+    </string-array>
+    <string-array name="Subjects">
+        <item>Principles of Communication Engineering</item>
+        <item>Digital Electronics</item>
+        <item>Electromagnetic Theory</item>
+        <item>Principles of Management</item>
+        <item>Networks and Systems</item>
+        <item>Solid State Devices and Circuits Lab</item>
+    </string-array>
+    <string-array name="PrinciplesofCommunication">
+        <item> Review of Signal Representations, Frequency domain analysis of signals using Fourier Transforms.  Introduction to Communication systems, guided and unguided transmission media, radio frequency spectrum, Concept of bandwidth, Mathematical models for communication channels Linear filter channel, Linear time-invariant channel</item>
+        <item>Analog Signal Transmission and reception: Modulation, Amplitude Modulation: Equation or AM wave, Modulation Index and Power relationships. AM transmitter: Generation of AM. AM demodulator: Theory and Mathematical analysis of Square Low detector, Envelope detector and synchronous detector. AM demodulator: Theory and Mathematical analysis of Square Low detector, Envelope detector and synchronous detector. DSB AM: Principle of nonlinear resistance, Balance modulator and Switching Modulator DSB Demodulation through product modulator, Costas receiver. SSB AM: Time domain representation of SSB signal, Generation methods: Filter, Phase shift method using Hilbert Transformer, SSB demodulator. VSB-AM generation, Demodulation using sideband filters, Quadrature Carrier multiplexing, FDM with basic groups, super groups, mastergroups
+        </item>
+        <item> Frequency and phase modulation,  NBFM, WBFM, Multiplexed Stereo FM system   Generation of Frequency Modulation: Reactance modulator and Indirect method, Multiplexed Stereo FM system   </item>
+        <item> Radio receivers: Tunned radio frequency receiver, Superheterodyne receiver Sensitivity and selectivity, selection of IF. Block diagram and features of Communication Receiver. </item>
+        <item> FM receiver: block diagram, FM discriminates: slope detector, balance slope detector and phase discriminator.Noise in Communication Systems: Thermal noise, Shot noise, S/N ratio, noise Equivalent bandwidth,. Concept of Random Variables, PDF, CDF, Different types of Pdfs, Gaussian Rayleigh PDF, Noise performance of AM, DSB,SSB, FM systems under AWGN   </item>
+        <item>  Communication System Engineering – John G Proakis  Communication Systems-  Simon Haykin  Modern Digital and Analog Communication Systems- B.P. Lathi, 3rd edition, Oxford University Press, 1998. </item>
+    </string-array>
+    <string-array name="DigitalELectronics">
+        <item>COMBINATIONAL LOGIC: Introduction, Design Procedure, Adders, Subtractors, Code Converters, Magnitude Comparator, BCD to Seven Segment decoder, Parity generator and Checker, Decoders, Encoders, Multiplexers, Demultiplexers, ROMs, Design of the circuits using Decoders, Multiplexers, ROMs</item>
+        <item>PROGRAMMABLE LOGIC DEVICES: Programmable Logic Array (PLA), Programmable Array Logic (PAL), Design of the circuits using PLA and PAL, Field Programmable Gate Array (FPGA). </item>
+        <item> SEQUENTIAL LOGIC: Introduction, Flip-Flops, Flip-Flop Excitation Tables, Triggering of Flip-Flops, Analysis of Clocked Sequential Circuits, State Reduction and Assignment, Race Around Condition, Master-Slave flip-flops, Conversion design of flip-flops.     </item>
+        <item> Design of synchronous and ripple counters, Mod-k or Divide-by-k counters, Decade counter, BCD Counter, UP/DOWN Counters, Lock Out problem, Design with State Equations.           </item>
+        <item> Shift register, Serial to Parallel Converter, Parallel to Serial Converter, Ring counters, Twisted-ring counter, Sequence Generator.
+               TIMING CIRCUITS: Multivibrators</item>
+        <item> M. Morris Mano: Digital Design, Third Edition, Prentice Hall   R. P. Jain: Modern Digital Electronics, Third Edition, TMH   Taub and Schilling: Digital Integrated Electronics,  McGRAW HILL </item>
+
+    </string-array>
+    <string-array name="ElectromagneticTheory">
+        <item>: INTRODUCTION- Review of scalar and vector field, Vector representation of line, surface and volume integrals, Physical interpretation of gradient, divergence and curl, Divergence and Stokes theorem, Different coordinate systems. </item>
+        <item> ELECTROSTATIC FIELDS- Electric field due to point, surface and volume charges, Electrostatic potential for different charge distributions, Gauss’s law and their applications, Solution of  Laplace’s and Poisson’s equation in one dimension, Method of images applied to plane boundaries, Electric flux density, Boundary conditions, Capacitance, Electrostatic energy.               </item>
+        <item> MAGNETOSTATIC FIELDS- Biot- Savart’s law , Ampere’s law, magnetic flux density, Boundary conditions, Faraday’s law, Energy stored in magnetic field,  Scalar and Vector Magnetic Potential</item>
+        <item> TIME VARYING ELECTROMAGNETIC FIELDS-Continuity equation, Displacement current, Maxwell’s equations in point form and integral form, Retarded vector potential, Plain wave equation and it’s solution in conducting and non conducting mediums, Phase velocity, Group velocity, Plane waves in lossy dielectrics, Propagation in good conductors: skin effect, impedance of conducting medium, Polarization, Reflection and Refraction of plain waves at plain boundaries, Poynting Vector, Poynting theorem and power considerations</item>
+        <item> TRANSMISSION LINES-Transmission line equations, parameters- primary and secondary constants, Analogy of transmission lines, Determination of α, β, γ and vp ,characteristics impedance,  Input impedance of a lossless line, open and short circuited lines, distortion-less lines, reflection coefficient and standing wave ratio, matched transmission line, Impedance matching, Smith chart and its applications.
+            UNIT 6:COMPUTATIONAL ELECTROMAGNETICS-Finite element method (FEM) and Finite difference time domain method (FDTD)   </item>
+        <item> Hayt William., “Engineering Electromagnetics”, Tata Mc Graw Hill  Matthew N.O. Sadiku ‘Elements of Electromagnetics’  Oxford University Press </item>
+
+    </string-array>
+    <string-array name="Management">
+        <item> Introduction to Management-Definition of Management – Science or Art – Management and Administration, Functions of Management – Types of Business Organization. Levels of management and Managerial skills   </item>
+        <item> School of Management Thoughts: Evolution of Management thoughts, classical approach, neo- classical approach, contribution of Taylor, Weber and Fayol, modern approach. </item>
+        <item>Planning Nature and Purpose – Steps involved in Planning ,Objectives, Setting Objectives, Process of Managing by Objectives ,Strategies, Policies and Planning Premises Forecasting  Decision-making</item>
+        <item> Organizing  Nature and Purpose – Formal and informal organization – Organization Chart – Structure and Process – Departmentation by difference strategies – Line and Staff authority – Benefits and Limitations – De-Centralization and Delegation of Authority – Staffing – Selection Process-Techniques-HRD-ManagerialEffectiveness. Directing: Scope – Human Factors – Creativity and Innovation – Harmonizing Objectives – Leadership – Types of Leadership Motivation – Hierarchy of needs – Motivation theories – Motivational Techniques – Job Enrichment – Communication – Process of Communication – Barriers and Breakdown – Effective Communication – Electronic media in Communication.   </item>
+        <item>Controlling-System and process of Controlling – Requirements for effective control – The Budget as Control Technique – Information Technology in Controlling – Use of computers in handling the information – Productivity – Problems and Management – Control of Overall Performance. Coordination.   </item>
+        <item> Tripathy PC and Reddy PN, “Principles of Management”, Tata McGraw-Hill, 1999.  Decenzo David, Robbin Stephen A, “Personnel and Human Reasons Management”, Prentice Hall of India, 1996  JAF Stomer, Freeman R. E and Daniel R Gilbert, “Management”, Pearson Education, Sixth Edition, 2004. </item>
+
+    </string-array>
+    <string-array name="Networks">
+
+        <item>Network Theorems: Super-position theorem, Thevenin’s theorem, Norton’s theorem, Maximum power transfer theorem, Reciprocity theorem. Millman’s  theorem, Compensation theorem, Tellegen’s theorem. </item>
+        <item> Network Analysis: Initial conditions, Time domain analysis of RL, RC and RLC networks, Responses for unit step, ramp, square pulse and impulse function, Steady-state analysis of AC circuits: Sinusoidal and phasor representation of   Voltage and current, single phase ac circuit behavior of R, L and C. Combinations</item>
+        <item> Circuit Analysis in s- domain: Concept of Complex frequency , Laplace transform and their application for circuit analysis, Network Functions-Transform Impedances Network functions of one port and two port networks, concept of poles and zeros, properties of driving point and transfer functions, time response and stability from pole zero plot.                                 </item>
+        <item> Characterization of two port networks. z, y, ABCD and h parameters, Reciprocity and Symmetry of two port network. Relationships between the parameters, inter-connections of two port networks.   </item>
+        <item> Network Synthesis:Positive real function; definition and properties; properties of LC, RC and RL driving point functions, synthesis of LC, RC and RL driving point immittance functions using Foster and Cauer first and second forms.           </item>
+        <item> D. Roy Choudhary, “Networks and Systems” New Age-Publication  W. H. Hayt and J. E. Kemmerly, “Engineering circuit Analysis”, TMH  A Chakrabarti and S. Bhadra, “Networks and Systems” Dhanpat Rai and Co. </item>
+
+    </string-array>
+    <string-array name="SolidStateDevices">
+        <item>: Bipolar Junction Transistor: Transistor switching characteristics, breakdown in Transistors, Ebers-Moll transistor equations, Analysis of transistor cutoff and saturation regions, small signal low frequency transistor hybrid model, simplified hybrid model, practical circuit of a transistor amplifier, effect of Ce and Cc on low frequency and high frequency response, high frequency model of a transistor-hybrid pi model.     </item>
+        <item>: JFET and MOSFET:  Review of device structure operation and V-I characteristics. MOSFET as an Amplifier and switch, Biasing of MOSFET amplifier circuits, small-signal operation and models, single stage MOSFET amplifier, CS, CD and CG amplifiers, MOSFET internal capacitances and high frequency model, frequency response of CS amplifier, Large signal analysis </item>
+        <item> Feedback amplifiers: Classification of amplifiers, Concept of feedback, transfer gain with feedback, General characteristics of negative feedback amplifiers, Effect of feedback on amplifier characteristics, Method of analysis of a feedback amplifier, Voltage-Series feedback, Current-Series feedback, Current-Shunt feedback, Voltage-Shunt feedback</item>
+        <item> Oscillators: Basic principles of sinusoidal oscillators, Phase Shift oscillators, Resonant-Circuit oscillators, General form of an oscillator circuit (Hartley and Colpitts oscillators), Wien-bridge oscillator, Crystal oscillators, Frequency Stability. </item>
+        <item> Power amplifiers: Classification of power amplifiers, class A, AB, B and C power amplifiers and their efficiency, pushpull and complimentary Symetry amplifiers. </item>
+        <item> Electronic circuits: Discrete and Integrated by D. L. Schilling, Charles Belove .  Microelectronic Circuits by A. S. Sedra and K. C. Smith.  Integrated Electronics by J. Milliman and C. C. Halkias  Microelectronics by J. Milliman and A. Grabel </item>
+
+    </string-array>
+    <string-array name="titles">
+        <item>Unit1 </item>
+        <item>Unit2 </item>
+        <item>Unit3 </item>
+        <item>Unit4 </item>
+        <item>Unit5 </item>
+        <item>Text/ Reference Books</item>
+
+    </string-array>
+    <string-array name="Faculty">
+        <item>Swetha Maam</item>
+        <item>Suman Sir</item>
+        <item>Communication Sir</item>
+        <item>Management Maam</item>
+        <item>Digital Sir</item>
+        <item>Rajeev Sir</item>
+    </string-array>
+    <string-array name="SwethaMaam">
+        <item>9856147622</item>
+        <item>swethatiwari@gmail.com</item>
+    </string-array>
+    <string-array name="CommunicationSir">
+        <item>9856147625</item>
+        <item>xyz@gmail.com</item>
+    </string-array>
+    <string-array name="SumanSir">
+        <item>9856147628</item>
+        <item>xyz@gmail.com</item>
+    </string-array>
+    <string-array name="ManagementMaam">
+        <item>9856147629</item>
+        <item>xyz@gmail.com</item>
+    </string-array>
+    <string-array name="RajeevSir">
+        <item>9856147623</item>
+        <item>xyz@gmail.com</item>
+    </string-array>
+    <string-array name="DigitalSir">
+        <item>9856147627</item>
+        <item>xyz.com</item>
+    </string-array>
+
+
+</resources>
